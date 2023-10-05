@@ -2,7 +2,7 @@ package md.ceiti.internmanagerapp.back.util;
 
 public class Api {
 
-    public static final String BASE = "https://intern-manager-production.up.railway.app/";
+    public static final String BASE = "https://intern-manager-production.up.railway.app/api/v1/";
     public static final String DEPARTMENTS = BASE + "departments";
     public static final String DEPARTMENT = BASE + "departments/";
     public static final String JOBS = BASE + "jobs";
